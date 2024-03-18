@@ -185,7 +185,8 @@ nav ul li a:hover {
 nav ul ul li a:hover {
     background-color: #555; /* Fond au survol */
     color: #ff0; /* Couleur au survol */
-    text-decoration: none; /* Supprimer le soulignement au survol */}
+    text-decoration: none; /* Supprimer le soulignement au survol */
+}
 
 
 a {
@@ -196,6 +197,3 @@ a {
   a:hover {
     color: #FF0000; /* Changer la couleur au survol en rouge */
   }
-  
-/*  a:visited {
-    color: #800080;  Changer la couleur des liens visités en violet  } je ne prefere pas le mettre */
